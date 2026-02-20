@@ -19,7 +19,7 @@ I'm currently looking for internships or part-time developer roles in Sweden whe
 - 📧 [abdurrahman.giumale@gmail.com](mailto:abdurrahman.giumale@gmail.com)
 - 💼 [linkedin.com/in/abdurrxhman](https://linkedin.com/in/abdurrxhman/)
 - 🐙 [github.com/abdurryy](https://github.com/abdurryy)
-- 📍 Märsta / Stockholm, Sweden
+- 📍 Stockholm, Sweden
 
 ---
 
