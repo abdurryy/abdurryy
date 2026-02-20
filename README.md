@@ -77,18 +77,6 @@ A proof-of-concept system for voice-over-WiFi calling, built on Raspberry Pi 4B+
 
 ---
 
-## Experience
-
-### Security Officer — Stockholm Arlanda Airport (Avarn Security)
-*May 2023 – Present · Märsta, Sweden*
-
-- Responsible for access control, passenger screening, and security checks in a high-traffic international airport environment
-- Communicate clearly and professionally with colleagues, passengers, and airport staff in Swedish and English
-- Work effectively under pressure, make quick decisions, and follow strict protocols and regulations
-- Gained strong habits around discipline, situational awareness, and teamwork in a regulated workplace
-
----
-
 ## Education
 
 **KTH Royal Institute of Technology** — Stockholm, Sweden  
