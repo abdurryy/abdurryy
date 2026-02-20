@@ -102,4 +102,4 @@ August 2024 – June 2029 (expected)
 
 ---
 
-*Feel free to reach out if you'd like to collaborate, have an interesting project, or just want to connect — I'm always open to a conversation.*
+*Feel free to reach out if you'd like to collaborate, have an interesting project, or just want to connect, I'm always open to a conversation.*
