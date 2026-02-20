@@ -8,8 +8,6 @@
 
 I'm an engineering student at KTH studying Information Technology, with a genuine interest in backend development, APIs, and working with hardware close to the network layer. I like building things that actually work — from prototype to something you can demonstrate — and I'm comfortable going from reading documentation to writing and debugging code on my own.
 
-Alongside my studies, I work as a Security Officer at Stockholm Arlanda Airport, which has taught me a lot about responsibility, clear communication, and staying focused under pressure.
-
 I'm currently looking for internships or part-time developer roles in Sweden where I can contribute and keep growing.
 
 ---
@@ -80,7 +78,7 @@ A proof-of-concept system for voice-over-WiFi calling, built on Raspberry Pi 4B+
 ## Education
 
 **KTH Royal Institute of Technology** — Stockholm, Sweden  
-*Integrated M.Sc. (Civilingenjör) in Information Technology*  
+*M.Sc. (Civilingenjör) in Information Technology*  
 August 2024 – June 2029 (expected)
 
 ---
