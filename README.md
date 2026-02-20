@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an engineering student at KTH studying Information Technology, with a genuine interest in backend development, APIs, and working with hardware close to the network layer. I like building things that actually work — from prototype to something you can demonstrate — and I'm comfortable going from reading documentation to writing and debugging code on my own.
+I'm an engineering student at KTH studying Information Technology, with a genuine interest in backend development, APIs, and working with hardware close to the network layer. I like building things that actually work, from prototype to something you can demonstrate, and I'm comfortable going from reading documentation to writing and debugging code on my own.
 
 I'm currently looking for internships or part-time developer roles in Sweden where I can contribute and keep growing.
 
@@ -62,7 +62,7 @@ I'm currently looking for internships or part-time developer roles in Sweden whe
 
 ## Featured Projects
 
-### Salti CS — VoWiFi / WiFi Calling Prototype
+### Salti CS | VoWiFi / WiFi Calling Prototype
 
 A proof-of-concept system for voice-over-WiFi calling, built on Raspberry Pi 4B+ hardware with a Python/FastAPI backend and a JavaScript client for testing and visualization.
 
