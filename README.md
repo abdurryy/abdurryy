@@ -26,7 +26,6 @@ I'm currently looking for internships or part-time developer roles in Sweden whe
 ## Currently
 
 - 🎓 Studying **Civilingenjör in Information Technology** at **KTH Royal Institute of Technology** (2024 – 2029)
-- 🛡️ Working as a **Security Officer** at Stockholm Arlanda Airport (Avarn Security)
 
 ---
 
