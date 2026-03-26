@@ -1,6 +1,6 @@
 # Abdurrahman Giumale
 
-**IT Student** — KTH Royal Institute of Technology
+**IT Student** @ KTH Royal Institute of Technology
 
 ---
 
